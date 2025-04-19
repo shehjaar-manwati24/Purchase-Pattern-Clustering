@@ -41,15 +41,6 @@ This visualization shows the number of customers in each segment, along with the
 
 ![image](https://github.com/user-attachments/assets/702e16b8-af09-4869-b097-16ef22308975)
 
-
-## 🚀 Future Enhancements
-
-- [ ] Integrate Power BI dashboard for interactive insights
-- [ ] Auto-label customer clusters based on behavior rules
-- [ ] Add CLTV prediction for marketing prioritization
-- [ ] Deploy as a web-based business analytics tool
-
-
 ---
 
 ## 📊 Dataset
